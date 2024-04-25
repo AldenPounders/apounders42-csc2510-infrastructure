@@ -1,0 +1,5 @@
+---
+# defaults file for apache2
+apach2_conf_dest: /etc/apach2/apache2.conf
+index_html_dest: /var/www/html/index.html
+

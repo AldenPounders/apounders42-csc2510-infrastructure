@@ -1,0 +1,4 @@
+---
+# vars file for apache2
+index_html_dest: /var/www/html/
+apache2_conf_dest: etc/apache2/
